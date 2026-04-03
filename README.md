@@ -1,4 +1,4 @@
 # own-project
 This is my first repo
 <br>
-Author : Sarvesh Pawar
+Author : Sarvesh Pawar (Vegayan Systems)
